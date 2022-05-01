@@ -15,3 +15,5 @@ My Categories for Youtube , that i'll be crawling data from would be
 3. Video Description
 4. Category
 
+
+### Import Latest ChromeDriver before running the script
